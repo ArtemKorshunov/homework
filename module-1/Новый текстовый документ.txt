@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <ol>
+        <li>snake
+        </li>cat and eat cat
+        <li>dog eat parrot eat cat eat snake
+        </li>macbook pro 258GB 
+    </ol>
+<ul>
+    <li>wc and kitchen
+     </li>
+</ul>
+</body>
+<p>подписывайтесь на канал Mrkriper_GAMES СТАВТЕ ЛАЙКИ канал сылка (https://www.youtube.com/channel/UCEhSGzOCI6b8PZQ-lKssbsA?view_as=subscriber)
+<img src="https://yt3.ggpht.com/a-/AAuE7mAbguEeejcJAo754HTaqzgTcBSNgwpkGPZLZHSXng=s288-c-k-c0xffffffff-no-rj-mo" alt="super канал">
+<div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
